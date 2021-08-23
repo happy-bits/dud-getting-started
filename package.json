@@ -1,0 +1,25 @@
+{
+  "name": "dud-getting-started",
+  "version": "1.0.0",
+  "description": "Helps you get started using dud.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/happy-bits/dud-getting-started"
+  },
+  "keywords": [
+    "dud.js",
+    "JavaScript",
+    "TDD",
+    "Test",
+    "Experimental"
+  ],
+  "author": "Oscar Olsson (happybits)",
+  "license": "ISC",
+  "dependencies": {
+    "@happybits/dud": "0.0.12"
+  }
+}
